@@ -1,0 +1,8 @@
+################################################################################################
+##                              SERVICE SPECIFIC CONFIGS BEGIN                                ##
+################################################################################################
+
+# this is the baseURL for API testing
+serviceUrl: "https://videolite-service-pluto-02.dev.americanwell.com"
+issUrl: "https://launcher.americanwell.com/ehr/iss"
+oauthUrl: "https://launcher.americanwell.com/ehr/oauth2/authorize"

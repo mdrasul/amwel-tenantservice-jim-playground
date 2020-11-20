@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Service: All Suites" verbose ="3" parallel="tests" thread-count="1">
+
+    <suite-files>
+
+        <suite-file path="smoke.xml" />
+
+    </suite-files>
+
+</suite>
